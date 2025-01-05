@@ -1,0 +1,60 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #add8e6;
+}
+
+h1 {
+    color: #00008b;
+    width: 100%;
+    text-align: center;
+    font-size: 65px;
+    height: 10vh;
+    margin: 0;
+    padding-top: 5vh;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.body button {
+    
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #00008b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.body button:active {
+    background-color: #0000ff;
+}
+
+.options-container {
+    margin: 200px;
+}
+
+Option {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 100px;
+}
+
+.tablet {
+    height: 84px;
+}
+
+
+.flag {
+    font-size: 400%;
+    padding: 0%;
+    margin: 0%;
+}
