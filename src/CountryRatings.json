@@ -1,0 +1,1995 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "flag": "🇦🇫",
+      "ratings": {
+        "taxes": 8,
+        "tunes": 7,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Albania",
+      "flag": "🇦🇱",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Algeria",
+      "flag": "🇩🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Andorra",
+      "flag": "🇦🇩",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 4,
+        "muff": 6,
+        "scran": 5,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Angola",
+      "flag": "🇦🇴",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Armenia",
+      "flag": "🇦🇲",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 7,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "flag": "🇦🇿",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Bahamas",
+      "flag": "🇧🇸",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 6,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Bahrain",
+      "flag": "🇧🇭",
+      "ratings": {
+        "taxes": 9,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "flag": "🇧🇩",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 8,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Barbados",
+      "flag": "🇧🇧",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Belarus",
+      "flag": "🇧🇾",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 5,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Belize",
+      "flag": "🇧🇿",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 8,
+        "scran": 6,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Benin",
+      "flag": "🇧🇯",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Bhutan",
+      "flag": "🇧🇹",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Bolivia",
+      "flag": "🇧🇴",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "flag": "🇧🇦",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Botswana",
+      "flag": "🇧🇼",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 9,
+        "muff": 9,
+        "scran": 9,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Chile",
+      "flag": "🇨🇱",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "China",
+      "flag": "🇨🇳",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 5,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 8,
+        "muff": 9,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Comoros",
+      "flag": "🇰🇲",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Costa Rica",
+      "flag": "🇨🇷",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Croatia",
+      "flag": "🇭🇷",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Cuba",
+      "flag": "🇨🇺",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Cyprus",
+      "flag": "🇨🇾",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Czech Republic",
+      "flag": "🇨🇿",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 10
+      }
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "flag": "🇨🇩",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Dominica",
+      "flag": "🇩🇲",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Dominican Republic",
+      "flag": "🇩🇴",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 8,
+        "muff": 9,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "El Salvador",
+      "flag": "🇸🇻",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Equatorial Guinea",
+      "flag": "🇬🇶",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Eritrea",
+      "flag": "🇪🇷",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 7,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Estonia",
+      "flag": "🇪🇪",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Eswatini",
+      "flag": "🇸🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "flag": "🇪🇹",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 6,
+        "scran": 9,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Fiji",
+      "flag": "🇫🇯",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 8,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Finland",
+      "flag": "🇫🇮",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 10,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Gabon",
+      "flag": "🇬🇦",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Gambia",
+      "flag": "🇬🇲",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Georgia",
+      "flag": "🇬🇪",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Greece",
+      "flag": "🇬🇷",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Grenada",
+      "flag": "🇬🇩",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Guatemala",
+      "flag": "🇬🇹",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Guinea",
+      "flag": "🇬🇳",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Guinea-Bissau",
+      "flag": "🇬🇼",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Guyana",
+      "flag": "🇬🇾",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Haiti",
+      "flag": "🇭🇹",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Honduras",
+      "flag": "🇭🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Hungary",
+      "flag": "🇭🇺",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Iceland",
+      "flag": "🇮🇸",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "India",
+      "flag": "🇮🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Indonesia",
+      "flag": "🇮🇩",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 6,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Iran",
+      "flag": "🇮🇷",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 8,
+        "bevs": 2
+      }
+    },
+    {
+      "name": "Iraq",
+      "flag": "🇮🇶",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 2
+      }
+    },
+    {
+      "name": "Ireland",
+      "flag": "🇮🇪",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Israel",
+      "flag": "🇮🇱",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 10,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Jamaica",
+      "flag": "🇯🇲",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Jordan",
+      "flag": "🇯🇴",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Kazakhstan",
+      "flag": "🇰🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Kenya",
+      "flag": "🇰🇪",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Kiribati",
+      "flag": "🇰🇮",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 4,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Korea, North",
+      "flag": "🇰🇵",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 3,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 2
+      }
+    },
+    {
+      "name": "Korea, South",
+      "flag": "🇰🇷",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Kuwait",
+      "flag": "🇰🇼",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Kyrgyzstan",
+      "flag": "🇰🇬",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Laos",
+      "flag": "🇱🇸",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Latvia",
+      "flag": "🇱🇻",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Lebanon",
+      "flag": "🇱🇧",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Lesotho",
+      "flag": "🇱🇸",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Liberia",
+      "flag": "🇱🇸",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Libya",
+      "flag": "🇱🇾",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Liechtenstein",
+      "flag": "🇱🇮",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 5,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Lithuania",
+      "flag": "🇱🇹",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Luxembourg",
+      "flag": "🇱🇺",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Madagascar",
+      "flag": "🇲🇬",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Malawi",
+      "flag": "🇲🇼",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Malaysia",
+      "flag": "🇲🇾",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Maldives",
+      "flag": "🇲🇻",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 7
+      }
+    },
+ {
+      "name": "Mali",
+      "flag": "🇲🇱",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 5,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Malta",
+      "flag": "🇲🇹",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Marshall Islands",
+      "flag": "🇲🇭",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Mauritania",
+      "flag": "🇲🇷",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Mauritius",
+      "flag": "🇲🇺",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Micronesia",
+      "flag": "🇫🇲",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Moldova",
+      "flag": "🇲🇩",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Monaco",
+      "flag": "🇲🇨",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 6,
+        "muff": 8,
+        "scran": 6,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Mongolia",
+      "flag": "🇲🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Montenegro",
+      "flag": "🇲🇪",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Morocco",
+      "flag": "🇲🇦",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Mozambique",
+      "flag": "🇲🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Myanmar",
+      "flag": "🇲🇲",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Namibia",
+      "flag": "🇳🇦",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Nauru",
+      "flag": "🇳🇷",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 4,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Nepal",
+      "flag": "🇳🇵",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 9,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Nicaragua",
+      "flag": "🇳🇮",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+     {
+      "name": "Niger",
+      "flag": "🇳🇪",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Nigeria",
+      "flag": "🇳🇬",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "North Macedonia",
+      "flag": "🇲🇰",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "ratings": {
+        "taxes": 1,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Oman",
+      "flag": "🇴🇲",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Pakistan",
+      "flag": "🇵🇰",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Palau",
+      "flag": "🇵🇼",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 4,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Papua New Guinea",
+      "flag": "🇵🇬",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Peru",
+      "flag": "🇵🇪",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Philippines",
+      "flag": "🇵🇭",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Poland",
+      "flag": "🇵🇱",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Qatar",
+      "flag": "🇶🇦",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Romania",
+      "flag": "🇷🇴",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Russia",
+      "flag": "🇷🇺",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Rwanda",
+      "flag": "🇷🇼",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "flag": "🇰🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Saint Lucia",
+      "flag": "🇱🇨",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "flag": "🇻🇨",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Samoa",
+      "flag": "🇼🇸",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "San Marino",
+      "flag": "🇸🇲",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 5,
+        "bevs": 6
+      }
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "flag": "🇸🇹",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 4,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 1
+      }
+    },
+    {
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Serbia",
+      "flag": "🇷🇸",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Seychelles",
+      "flag": "🇸🇨",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Sierra Leone",
+      "flag": "🇸🇱",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Slovakia",
+      "flag": "🇸🇰",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Slovenia",
+      "flag": "🇸🇮",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Solomon Islands",
+      "flag": "🇸🇧",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Somalia",
+      "flag": "🇸🇴",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 2
+      }
+    },
+    {
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 8,
+        "muff": 8,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "South Korea",
+      "flag": "🇰🇷",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "South Sudan",
+      "flag": "🇸🇸",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 9,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 9
+      }
+    },
+     {
+      "name": "Sri Lanka",
+      "flag": "🇱🇰",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Sudan",
+      "flag": "🇸🇩",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 2
+      }
+    },
+    {
+      "name": "Suriname",
+      "flag": "🇸🇷",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "ratings": {
+        "taxes": 2,
+        "tunes": 9,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Syria",
+      "flag": "🇸🇾",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Taiwan",
+      "flag": "🇹🇼",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Tajikistan",
+      "flag": "🇹🇯",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Tanzania",
+      "flag": "🇹🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 8,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Thailand",
+      "flag": "🇹🇭",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 8,
+        "scran": 9,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Timor-Leste",
+      "flag": "🇹🇱",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Togo",
+      "flag": "🇹🇬",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 6,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Tonga",
+      "flag": "🇹🇴",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 7,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "flag": "🇹🇹",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 8
+      }
+    },
+    {
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 8,
+        "muff": 7,
+        "scran": 9,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Turkmenistan",
+      "flag": "🇹🇲",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 3
+      }
+    },
+     {
+      "name": "Tuvalu",
+      "flag": "🇹🇻",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Uganda",
+      "flag": "🇺🇬",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Ukraine",
+      "flag": "🇺🇦",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 7,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "United Arab Emirates",
+      "flag": "🇦🇪",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "ratings": {
+        "taxes": 3,
+        "tunes": 9,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "United States",
+      "flag": "🇺🇸",
+      "ratings": {
+        "taxes": 4,
+        "tunes": 9,
+        "muff": 7,
+        "scran": 6,
+        "bevs": 9
+      }
+    },
+    {
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "ratings": {
+        "taxes": 5,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Uzbekistan",
+      "flag": "🇺🇿",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 4,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Vanuatu",
+      "flag": "🇻🇺",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 6,
+        "scran": 5,
+        "bevs": 3
+      }
+    },
+    {
+      "name": "Vatican City",
+      "flag": "🇻🇦",
+      "ratings": {
+        "taxes": 10,
+        "tunes": 5,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 5
+      }
+    },
+    {
+      "name": "Venezuela",
+      "flag": "🇻🇪",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 6,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Vietnam",
+      "flag": "🇻🇳",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 7,
+        "muff": 7,
+        "scran": 8,
+        "bevs": 7
+      }
+    },
+    {
+      "name": "Yemen",
+      "flag": "🇾🇪",
+      "ratings": {
+        "taxes": 7,
+        "tunes": 4,
+        "muff": 5,
+        "scran": 6,
+        "bevs": 1
+      }
+    },
+    {
+      "name": "Zambia",
+      "flag": "🇿🇲",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    },
+    {
+      "name": "Zimbabwe",
+      "flag": "🇿🇼",
+      "ratings": {
+        "taxes": 6,
+        "tunes": 5,
+        "muff": 6,
+        "scran": 7,
+        "bevs": 4
+      }
+    }
+  ]
+}
