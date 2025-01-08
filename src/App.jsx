@@ -5,7 +5,15 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import CountryRatings from "./CountryRatings.json";
 
-function Option({ option, flag, action, currentFlag, setCurrentFlag }) {
+function Option({
+  option,
+  flag,
+  action,
+  currentFlag,
+  setCurrentFlag,
+  setFlagsRevealed,
+  flagsRevealed,
+}) {
   function nextFlag() {
     setCurrentFlag(
       CountryRatings.countries[
@@ -18,6 +26,7 @@ function Option({ option, flag, action, currentFlag, setCurrentFlag }) {
     if (flag.name != undefined) return;
     action(currentFlag);
     nextFlag();
+    setFlagsRevealed(flagsRevealed + 1);
   }
 
   return (
@@ -58,6 +67,7 @@ function App() {
   const [bevsOption, setBevsOption] = useState({});
 
   const [currentFlag, setCurrentFlag] = useState({});
+  const [flagsRevealed, setFlagsRevealed] = useState(0);
   useEffect(() => {
     setCurrentFlag(
       CountryRatings.countries[
@@ -72,18 +82,25 @@ function App() {
 
       <div className="body">
         <div className="options-container" setFlag={setCurrentFlag}>
-          <Tooltip
-            title={currentFlag.name}
-            overlayInnerStyle={{ backgroundColor: "#00008b", color: "#fff" }}
-          >
-            <div className="flagDisplay">{currentFlag.flag}</div>
-          </Tooltip>
+          {flagsRevealed < 5 ? (
+            <Tooltip
+              title={currentFlag.name}
+              overlayInnerStyle={{ backgroundColor: "#00008b", color: "#fff" }}
+            >
+              <div className="flagDisplay">{currentFlag.flag}</div>
+            </Tooltip>
+          ) : (
+            <></>
+          )}
+
           <Option
             option="Taxes"
             flag={taxesOption}
             action={setTaxesOption}
             currentFlag={currentFlag}
             setCurrentFlag={setCurrentFlag}
+            setFlagsRevealed={setFlagsRevealed}
+            flagsRevealed={flagsRevealed}
           />
           <Option
             option="Tunes"
@@ -91,6 +108,8 @@ function App() {
             action={setTunesOption}
             currentFlag={currentFlag}
             setCurrentFlag={setCurrentFlag}
+            setFlagsRevealed={setFlagsRevealed}
+            flagsRevealed={flagsRevealed}
           />
           <Option
             option="Muff"
@@ -98,6 +117,8 @@ function App() {
             action={setMuffOption}
             currentFlag={currentFlag}
             setCurrentFlag={setCurrentFlag}
+            setFlagsRevealed={setFlagsRevealed}
+            flagsRevealed={flagsRevealed}
           />
           <Option
             option="Scran"
@@ -105,6 +126,8 @@ function App() {
             action={setScranOption}
             currentFlag={currentFlag}
             setCurrentFlag={setCurrentFlag}
+            setFlagsRevealed={setFlagsRevealed}
+            flagsRevealed={flagsRevealed}
           />
           <Option
             option="Bevs"
@@ -112,6 +135,8 @@ function App() {
             action={setBevsOption}
             currentFlag={currentFlag}
             setCurrentFlag={setCurrentFlag}
+            setFlagsRevealed={setFlagsRevealed}
+            flagsRevealed={flagsRevealed}
           />
         </div>
       </div>
