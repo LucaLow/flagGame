@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Tooltip } from "antd";
+import { Tooltip, Modal } from "antd";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
@@ -13,6 +13,7 @@ function Option({
   setCurrentFlag,
   setFlagsRevealed,
   flagsRevealed,
+  setIsModalVisible,
 }) {
   function nextFlag() {
     setCurrentFlag(
@@ -23,10 +24,15 @@ function Option({
   }
 
   function select() {
-    if (flag.name != undefined) return;
+    if (flag.name != undefined) {
+      return;
+    }
     action(currentFlag);
     nextFlag();
     setFlagsRevealed(flagsRevealed + 1);
+    if (flagsRevealed == 4) {
+      setIsModalVisible(true);
+    }
   }
 
   return (
@@ -68,6 +74,9 @@ function App() {
 
   const [currentFlag, setCurrentFlag] = useState({});
   const [flagsRevealed, setFlagsRevealed] = useState(0);
+
+  const [isModalVisible, setIsModalVisible] = useState(false);
+
   useEffect(() => {
     setCurrentFlag(
       CountryRatings.countries[
@@ -81,7 +90,16 @@ function App() {
       <h1>Flag Game</h1>
 
       <div className="body">
-        <div className="options-container" setFlag={setCurrentFlag}>
+        <Modal
+          title="Country Info"
+          open={isModalVisible}
+          onOk={() => setIsModalVisible(false)}
+          onCancel={() => setIsModalVisible(false)}
+        >
+          <p>hi</p>
+        </Modal>
+
+        <div className="options-container">
           {flagsRevealed < 5 ? (
             <Tooltip
               title={currentFlag.name}
@@ -101,6 +119,7 @@ function App() {
             setCurrentFlag={setCurrentFlag}
             setFlagsRevealed={setFlagsRevealed}
             flagsRevealed={flagsRevealed}
+            setIsModalVisible={setIsModalVisible}
           />
           <Option
             option="Tunes"
@@ -110,6 +129,7 @@ function App() {
             setCurrentFlag={setCurrentFlag}
             setFlagsRevealed={setFlagsRevealed}
             flagsRevealed={flagsRevealed}
+            setIsModalVisible={setIsModalVisible}
           />
           <Option
             option="Muff"
@@ -119,6 +139,7 @@ function App() {
             setCurrentFlag={setCurrentFlag}
             setFlagsRevealed={setFlagsRevealed}
             flagsRevealed={flagsRevealed}
+            setIsModalVisible={setIsModalVisible}
           />
           <Option
             option="Scran"
@@ -128,6 +149,7 @@ function App() {
             setCurrentFlag={setCurrentFlag}
             setFlagsRevealed={setFlagsRevealed}
             flagsRevealed={flagsRevealed}
+            setIsModalVisible={setIsModalVisible}
           />
           <Option
             option="Bevs"
@@ -137,6 +159,7 @@ function App() {
             setCurrentFlag={setCurrentFlag}
             setFlagsRevealed={setFlagsRevealed}
             flagsRevealed={flagsRevealed}
+            setIsModalVisible={setIsModalVisible}
           />
         </div>
       </div>
