@@ -103,7 +103,7 @@ function App() {
                   tunesOption.ratings?.tunes +
                   muffOption.ratings?.muff +
                   scranOption.ratings?.scran +
-                  bevsOption.ratings?.bevs}
+                  bevsOption.ratings?.bevs}/50
               </h2>
 
             </Card>
