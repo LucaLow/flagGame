@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Tooltip, Modal } from "antd";
+import { Tooltip, Modal, Card, Avatar } from "antd";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
@@ -18,7 +18,7 @@ function Option({
   function nextFlag() {
     setCurrentFlag(
       CountryRatings.countries[
-        Math.floor(Math.random() * CountryRatings.countries.length)
+      Math.floor(Math.random() * CountryRatings.countries.length)
       ]
     );
   }
@@ -80,7 +80,7 @@ function App() {
   useEffect(() => {
     setCurrentFlag(
       CountryRatings.countries[
-        Math.floor(Math.random() * CountryRatings.countries.length)
+      Math.floor(Math.random() * CountryRatings.countries.length)
       ]
     );
   }, []);
@@ -96,7 +96,12 @@ function App() {
           onOk={() => setIsModalVisible(false)}
           onCancel={() => setIsModalVisible(false)}
         >
-          <p>hi</p>
+          <div className="cardHolder">
+            <Card title="Taxes" style={{ width: 150 }} className="card">
+              <h4>{`${taxesOption.name} ${taxesOption.flag}`}</h4>
+              <h5>{taxesOption.ratings?.taxes}</h5>
+            </Card>
+          </div>
         </Modal>
 
         <div className="options-container">
