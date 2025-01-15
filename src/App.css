@@ -1,134 +1,137 @@
 body {
-    padding: 0;
-    margin: 0;
-    background-color: #add8e6;
+  padding: 0;
+  margin: 0;
+  background-color: #add8e6;
 }
 
 h1 {
-    color: #00008b;
-    width: 100%;
-    text-align: center;
-    font-size: 65px;
-    height: 10vh;
-    margin: 0;
-    padding-top: 5vh;
+  color: #00008b;
+  width: 100%;
+  text-align: center;
+  font-size: 65px;
+  height: 10vh;
+  margin: 0;
+  padding-top: 5vh;
 }
 
 .body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
 }
 .body button {
-    
-    padding: 10px 20px;
-    font-size: 20px;
-    background-color: #00008b;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    width: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #00008b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
 }
 
 .body button:active {
-    background-color: #0000ff;
+  background-color: #0000ff;
 }
 
 .options-container {
-    margin: 200px;
-    align-items: center;
+  margin: 200px;
+  align-items: center;
 }
 
 Option {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  height: 100px;
 }
 
 .tablet {
-    height: 88px;
+  height: 88px;
 }
 
-
 .flag {
-    font-size: 400%;
-    padding: 0%;
-    margin: 0%;
+  font-size: 400%;
+  padding: 0%;
+  margin: 0%;
 }
 
 .options-container .nextFlag {
-    font-size: 25px;
-    padding: 0%;
-    margin: 0%;
-    width: 120px;
-    height: 50px;
-    background-color: #ff4500;
+  font-size: 25px;
+  padding: 0%;
+  margin: 0%;
+  width: 120px;
+  height: 50px;
+  background-color: #ff4500;
 }
 
 .options-container .nextFlag:active {
-    background-color: #ff6347;
+  background-color: #ff6347;
 }
 
 .flagDisplay {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100px;
-    font-size: 400%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  font-size: 400%;
 }
 
 .flagDisplay .tooltip {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%; /* Position the tooltip above the text */
-    left: 50%;
-    margin-left: -60px;
-    opacity: 0;
-    transition: opacity 0.3s;
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position the tooltip above the text */
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 .flagDisplay .tooltip::after {
-    content: "";
-    position: absolute;
-    top: 100%; /* At the bottom of the tooltip */
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
+  content: "";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
 }
 
 .flagDisplay:hover .tooltip {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
 
 .cardHolder {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: left;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .card {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  border-color: #00008b;
+  border-width: 2px;
+  height: 250px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }

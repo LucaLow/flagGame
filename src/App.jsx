@@ -97,9 +97,35 @@ function App() {
           onCancel={() => setIsModalVisible(false)}
         >
           <div className="cardHolder">
+            <Card title="Overall Score" style={{ width: 150 }} className="card">
+              <h2>
+                {taxesOption.ratings?.taxes +
+                  tunesOption.ratings?.tunes +
+                  muffOption.ratings?.muff +
+                  scranOption.ratings?.scran +
+                  bevsOption.ratings?.bevs}
+              </h2>
+
+            </Card>
             <Card title="Taxes" style={{ width: 150 }} className="card">
               <h4>{`${taxesOption.name} ${taxesOption.flag}`}</h4>
               <h5>{taxesOption.ratings?.taxes}</h5>
+            </Card>
+            <Card title="Tunes" style={{ width: 150 }} className="card">
+              <h4>{`${tunesOption.name} ${tunesOption.flag}`}</h4>
+              <h5>{tunesOption.ratings?.tunes}</h5>
+            </Card>
+            <Card title="Muff" style={{ width: 150 }} className="card">
+              <h4>{`${muffOption.name} ${muffOption.flag}`}</h4>
+              <h5>{muffOption.ratings?.muff}</h5>
+            </Card>
+            <Card title="Scran" style={{ width: 150 }} className="card">
+              <h4>{`${scranOption.name} ${scranOption.flag}`}</h4>
+              <h5>{scranOption.ratings?.scran}</h5>
+            </Card>
+            <Card title="Bevs" style={{ width: 150 }} className="card">
+              <h4>{`${bevsOption.name} ${bevsOption.flag}`}</h4>
+              <h5>{bevsOption.ratings?.bevs}</h5>
             </Card>
           </div>
         </Modal>
