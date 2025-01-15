@@ -85,6 +85,16 @@ function App() {
     );
   }, []);
 
+  function ModalClose() {
+    setFlagsRevealed(0)
+    setTaxesOption({})
+    setTunesOption({})
+    setMuffOption({})
+    setScranOption({})
+    setBevsOption({})
+    setIsModalVisible(false);
+  }
+
   return (
     <>
       <h1>Flag Game</h1>
@@ -93,8 +103,8 @@ function App() {
         <Modal
           title="Country Info"
           open={isModalVisible}
-          onOk={() => setIsModalVisible(false)}
-          onCancel={() => setIsModalVisible(false)}
+          onOk={() => ModalClose()}
+          onCancel={() => ModalClose()}
         >
           <div className="cardHolder">
             <Card title="Overall Score" style={{ width: 150 }} className="card">
@@ -199,3 +209,4 @@ function App() {
 }
 
 export default App;
+
