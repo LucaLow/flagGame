@@ -1,8 +1,3 @@
-# React + Vite
+# Rufus Rice Flag Game
+flag game is a React + Vite website where you are given 5 catagories and a random country where you have to asign that countries flag to a catagory and then are given another random flag to asign to another catagory, this was based on Rufus Rice's
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
